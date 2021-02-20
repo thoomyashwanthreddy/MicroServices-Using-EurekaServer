@@ -6,6 +6,6 @@ Eureka Server is an application that holds the information about all client-serv
 
 ### Application.properties
 
-1. eureka.client.registerWithEureka = false
-2. eureka.client.fetchRegistry = false
-3. server.port = 8761
+ eureka.client.registerWithEureka = false
+ eureka.client.fetchRegistry = false
+ server.port = 8761
